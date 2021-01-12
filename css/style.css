@@ -6,3 +6,7 @@
   border-radius: 50px;
   width: 10em;
 }
+
+.btn:hover {
+  background: linear-gradient(to left, #069, #099);
+}
