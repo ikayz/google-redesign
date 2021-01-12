@@ -10,3 +10,8 @@
 .btn:hover {
   background: linear-gradient(to left, #069, #099);
 }
+
+input[type="search"] {
+  border-radius: 50px;
+  width: 30em;
+}
